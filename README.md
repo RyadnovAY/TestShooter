@@ -1,3 +1,4 @@
 # TestShooter
 
-Developed with Unreal Engine 4
+Тестовый проект по работе с мультиплеером.
+Разработан на движке Unreal Engine 4.27.
